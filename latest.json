@@ -1,0 +1,5 @@
+{
+    "version": "1.1.1",
+    "apkUrl": "https://github.com/feistyfeller208-stack/hush-releases/releases/download/v1.1.1/app-debug.apk",
+    "releaseNotes": "Fixed two-way messaging and improved P2P inbox checking."
+}
