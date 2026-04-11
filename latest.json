@@ -1,5 +1,5 @@
 {
-    "version": "1.1.2",
-    "apkUrl": "https://github.com/feistyfeller208-stack/hush-releases/releases/download/v1.1.2/app-debug.apk",
+    "version": "1.1.3",
+    "apkUrl": "https://github.com/feistyfeller208-stack/hush-releases/releases/download/v1.1.3/app-debug.apk",
     "releaseNotes": "Added file sharing, voice messages, and update checker."
 }
