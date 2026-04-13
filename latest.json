@@ -1,4 +1,5 @@
-const UPDATE_CONFIG = {
-    currentVersion: "1.1.4",
-    updateURL: "https://raw.githubusercontent.com/feistyfeller208-stack/hush-releases/main/latest.json"
-};
+{
+    "version": "1.1.4",
+    "apkUrl": "https://github.com/feistyfeller208-stack/hush-releases/releases/download/v1.1.4/app-debug.apk",
+    "releaseNotes": "Fixed button layout and removed footer from chat screen."
+}
