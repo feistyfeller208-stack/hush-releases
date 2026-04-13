@@ -1,5 +1,5 @@
 {
-    "version": "1.1.4",
-    "apkUrl": "https://github.com/feistyfeller208-stack/hush-releases/releases/download/v1.1.4/app-debug.apk",
-    "releaseNotes": "Fixed button layout and removed footer from chat screen."
+    "version": "1.1.4.5",
+    "apkUrl": "https://github.com/feistyfeller208-stack/hush-releases/releases/download/v1.1.4.5/app-debug.apk",
+    "releaseNotes": "Fixed footer visibility and button layout."
 }
